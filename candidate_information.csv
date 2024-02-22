@@ -1,0 +1,1001 @@
+Candidate ID,Candidate Name,Candidate Skills,Candidate Experience,Candidate Education,Candidate Salary
+1,MPVADD,"SQL, Java",3,2,85916
+2,HJTVSE,"Machine Learning, Java, C++",1,0,50699
+3,XGYYMB,"Python, C++, Communication, Problem Solving",3,0,71024
+4,GHXOYR,"Machine Learning, SQL, Communication",9,1,143707
+5,FZNIJU,Data Analysis,15,2,46420
+6,TQTFPP,"Data Analysis, Data Analysis, C++",0,0,123499
+7,ASDYRT,"Python, Machine Learning, Problem Solving",15,0,145804
+8,TTOHAB,"Problem Solving, Java, Machine Learning",7,2,135770
+9,JZAKUX,"C++, SQL, Python",15,2,107227
+10,DLSXCA,"SQL, Machine Learning",18,2,128538
+11,AEVFGI,"Problem Solving, Python",2,2,46595
+12,URPEJK,"Machine Learning, Communication, Java",9,1,49234
+13,YBBHJZ,"Communication, Problem Solving",2,0,45173
+14,DGXLOS,"Python, C++, Python, Java",0,0,114066
+15,AODVMZ,"Java, C++, Problem Solving",12,2,62034
+16,KULEGE,"SQL, Python, SQL",2,0,143601
+17,PUDMEU,Communication,8,0,112144
+18,IOPUDX,"SQL, C++, Python",20,1,133168
+19,PNVVQR,"Machine Learning, Data Analysis, Data Analysis, Communication",0,1,101231
+20,FJDAFA,"Python, Communication",3,0,96405
+21,RSECQD,"Python, C++, Problem Solving, Java",0,1,120242
+22,CKNQHV,"SQL, C++",14,2,145839
+23,JAKSLX,"Machine Learning, Java",19,1,43893
+24,CZCDDS,"Data Analysis, Java, Java, SQL",10,1,83817
+25,ODURSO,Python,3,2,65449
+26,JBEKWL,"Java, Problem Solving, Java, Python",14,2,78332
+27,ILCTQA,"C++, Problem Solving, Communication",1,1,129457
+28,WAGTOK,Data Analysis,12,1,34871
+29,TYINYC,Java,10,1,110802
+30,DCLNQI,"Java, Data Analysis, C++, Data Analysis",16,1,120988
+31,ITICYU,"Data Analysis, Data Analysis, Java",13,2,32399
+32,DMOAED,"Machine Learning, Machine Learning",10,0,62472
+33,NLWNZN,SQL,18,0,124798
+34,LYQYVO,"C++, Data Analysis, SQL, Python",15,2,39912
+35,ZQZWVT,"Problem Solving, SQL",3,1,80227
+36,BIAEZG,"SQL, Machine Learning",0,1,45218
+37,VNHYYP,C++,4,0,62223
+38,JSIWPL,"Python, C++",9,0,148134
+39,GPZBWM,"Data Analysis, Java, Python",19,1,138499
+40,YYDSPD,"Data Analysis, Java, Problem Solving",1,2,38735
+41,KMGDWF,"C++, Python, Data Analysis",3,2,74503
+42,XLALIU,"Communication, Python, Problem Solving, Machine Learning",9,2,146272
+43,KWLFPI,SQL,5,1,61281
+44,CTZXVT,"SQL, Communication, Java, C++",11,1,144620
+45,OUVDDH,"Problem Solving, Machine Learning, Communication, Java",1,1,144493
+46,JJJXDO,"Data Analysis, Communication, Machine Learning",5,1,45587
+47,SMDJKN,"Python, Problem Solving, Communication, Communication",9,0,85346
+48,HHVBMC,"Data Analysis, Problem Solving",5,2,68944
+49,CYBFIE,"Communication, Communication, Java",11,0,142960
+50,ALCFVQ,"Data Analysis, SQL, Problem Solving",13,1,80533
+51,IBRQDY,Java,1,0,67140
+52,IUEQZD,"Communication, C++, Machine Learning, Machine Learning",18,0,103085
+53,HDSRBS,"Communication, SQL, Communication",3,0,100315
+54,RUCFFM,"SQL, Communication",5,2,137944
+55,MVCPVH,Machine Learning,17,1,64713
+56,HLWRGH,Python,6,1,78247
+57,SLTRJO,"SQL, Problem Solving, Python",10,2,140534
+58,VJZSAJ,Communication,7,2,37933
+59,LRJAWQ,"Machine Learning, Machine Learning, C++, Java",11,2,99906
+60,KEYUDT,"Communication, SQL",11,2,122003
+61,IYOXAT,Python,8,1,140389
+62,IHXNRY,Communication,0,2,114274
+63,UXALEZ,Communication,1,1,66116
+64,AKOWUS,Problem Solving,9,2,58156
+65,EWDTHI,"Java, Python, Machine Learning, Data Analysis",16,1,97648
+66,NFAIPP,"Problem Solving, Problem Solving",7,0,89999
+67,VLEHNK,"Java, C++",12,0,93495
+68,UORTDJ,"Communication, Data Analysis, Machine Learning, Data Analysis",17,2,79744
+69,SVCTVL,"Machine Learning, SQL, Python, Data Analysis",17,2,56211
+70,XSNXBG,"Data Analysis, Java, Python, C++",12,1,49045
+71,KVQQDR,"Java, Java",1,1,107137
+72,KJMNZG,Problem Solving,5,0,98542
+73,GHINYH,"Data Analysis, Data Analysis, Machine Learning",14,1,37351
+74,QYWYPZ,"Data Analysis, Python, Communication",6,2,135296
+75,IDGRHU,"Java, Python, Java",7,1,56516
+76,ZCQYSN,"Machine Learning, Problem Solving, Data Analysis, Machine Learning",20,0,51112
+77,XYEEMR,Data Analysis,1,0,107091
+78,XWZUBF,"Communication, Problem Solving",17,0,75219
+79,ZXBTVX,C++,7,1,62791
+80,TWWHJR,"Java, SQL, Machine Learning, Python",4,0,68360
+81,JWATYE,"Python, Java",8,2,50618
+82,RUVQDK,"Problem Solving, Python",9,2,117701
+83,BUEEQQ,Data Analysis,9,0,110468
+84,PKNILU,Java,20,1,55449
+85,GJPDTM,"Machine Learning, Python",10,2,118283
+86,SRKCBL,"Data Analysis, Communication, Python",7,0,114116
+87,DMEBRA,Python,8,1,138901
+88,HYEDFG,"Java, Problem Solving",17,0,45727
+89,DCZIBE,"SQL, Problem Solving, Problem Solving, C++",15,0,44804
+90,AYNTJV,"Python, Machine Learning, Python",10,1,109891
+91,FBHIWU,"Problem Solving, Python",1,1,112250
+92,HDVMDG,"Python, Python, Data Analysis",3,1,51575
+93,UHTAFL,"Problem Solving, Data Analysis",6,1,88794
+94,JTHVFI,C++,12,2,120591
+95,LOAITG,"Python, Problem Solving, Data Analysis, Communication",9,0,98046
+96,ZKTCXA,"Communication, Data Analysis, C++, Problem Solving",13,1,145037
+97,TOATGB,"Communication, Python",3,1,139683
+98,MZSNJE,"SQL, Python, Python",9,0,50511
+99,ZRDCUN,"Python, Python, SQL",12,0,31953
+100,ZPXEJE,Java,12,1,125198
+101,RSNNXC,"SQL, Communication",14,2,81303
+102,DJXWWM,"Python, Python, Data Analysis, C++",2,1,30374
+103,PCTGOQ,"Java, Python, Problem Solving, Java",2,2,134427
+104,PIAKLN,"SQL, C++, C++",12,2,54993
+105,HGNVPJ,"Communication, Machine Learning, Data Analysis",9,1,120747
+106,GVLSHB,"Communication, Python, Python",16,1,46413
+107,JCSOFW,"SQL, Machine Learning, Communication",1,2,105656
+108,ESOSBM,"Data Analysis, Communication, C++, Problem Solving",11,1,62163
+109,AJQCIT,"C++, C++, Java, Data Analysis",4,0,79798
+110,KQYYBA,Python,10,1,44591
+111,FYCPDO,Data Analysis,2,1,65181
+112,FLTYGU,"Python, Data Analysis, C++",2,1,73170
+113,GTGCGF,"Data Analysis, SQL, Problem Solving, C++",0,1,46586
+114,FNJEWN,Data Analysis,15,0,90862
+115,VRDNTI,Java,20,2,92394
+116,ZVNFWQ,"Communication, C++, Machine Learning, Java",17,0,42532
+117,ZOXFBF,"Machine Learning, C++",11,0,144482
+118,GMKWOI,"Java, Java",15,1,100246
+119,HNFPKD,"Python, Machine Learning, Communication",3,1,76872
+120,KSZZDO,Java,8,1,143213
+121,SFERFY,"C++, Data Analysis, Java, SQL",13,0,104649
+122,DFIERX,Problem Solving,20,1,133646
+123,YBSBOR,C++,3,1,95097
+124,HVLOQU,Communication,15,0,71630
+125,BRMWOW,Machine Learning,14,2,138843
+126,ACTXZO,"C++, Communication",19,0,99090
+127,SLUJOA,Machine Learning,0,1,51659
+128,MWJSEH,"SQL, Communication, Data Analysis, Machine Learning",16,2,94767
+129,DQMFUN,"Machine Learning, Machine Learning, Python",13,1,124983
+130,QNSTRH,"Communication, Communication",20,0,54985
+131,RODKUK,"Problem Solving, Java, Python",6,2,93440
+132,BXUQKS,"Python, Python",16,1,139236
+133,XUQCGJ,"Communication, Problem Solving",18,0,41060
+134,CUMJZV,"C++, C++",18,1,147100
+135,EEJKMI,"Machine Learning, Data Analysis, Problem Solving",7,1,113906
+136,BFHABD,Machine Learning,20,0,65254
+137,ZSYSUI,C++,2,2,41678
+138,SZYHKY,"SQL, Python, Machine Learning",14,2,41012
+139,SDMTNW,"Data Analysis, C++",6,2,141176
+140,AKDGDZ,"Data Analysis, Machine Learning, Problem Solving, Data Analysis",10,0,127136
+141,GTCSSG,"SQL, C++",13,0,65604
+142,ULWAEN,"SQL, Machine Learning",16,0,124639
+143,JCBMPW,"Machine Learning, Data Analysis, Java, C++",18,1,82449
+144,BXMFGB,"Communication, C++, Java, Machine Learning",6,0,59373
+145,KGGGGL,"SQL, Communication, C++, Python",11,2,36982
+146,SVSSTC,Java,5,1,47911
+147,MJTIFU,"Machine Learning, Data Analysis, C++",13,1,95309
+148,VLBLPM,"SQL, Machine Learning",16,2,60150
+149,PMVYSZ,"Communication, Python",1,2,35369
+150,NMJVGE,"Data Analysis, Machine Learning, Machine Learning, C++",4,2,65290
+151,QIFPFF,"SQL, Data Analysis, Data Analysis",8,1,149329
+152,RAQQAK,Java,16,2,91908
+153,MAHWTF,"Python, Data Analysis",1,2,51455
+154,ETEFMR,"C++, Communication",19,0,93288
+155,TMGHUQ,"Java, Python, Data Analysis, Problem Solving",13,1,73531
+156,AXPKDD,"SQL, Machine Learning, Java, Communication",16,1,84799
+157,QQJUUF,"Java, C++, SQL, Machine Learning",6,2,86953
+158,YYQRVZ,"Java, Java, Java",16,2,73754
+159,JMPGOB,"Data Analysis, Java",4,0,81605
+160,EQEHXO,"Python, Machine Learning, Communication, C++",19,1,80267
+161,HWCWQP,"Problem Solving, Data Analysis, SQL",12,1,43355
+162,PSLXOH,"Python, Machine Learning, Communication",11,0,101506
+163,CWRDHN,"Problem Solving, Communication",5,2,83898
+164,QFEVNF,"Problem Solving, Communication, SQL, Python",20,1,130620
+165,TLIARF,"SQL, C++, Machine Learning",6,0,130016
+166,EBFQGY,"Communication, Python",11,2,118822
+167,IWTEUK,Data Analysis,11,1,55974
+168,KDWFJI,"Machine Learning, Python, Communication, Data Analysis",13,0,104354
+169,RTIKBO,"Python, Communication, Machine Learning, C++",17,0,130354
+170,FYQDHB,Problem Solving,5,2,57083
+171,XIAXFP,Machine Learning,5,1,38582
+172,ZZGYXP,"Communication, Communication, C++, SQL",13,0,58513
+173,FJRQQL,"Python, Data Analysis",20,2,38407
+174,OFWTPW,Communication,4,0,133657
+175,NLLBHX,"Communication, Communication",15,2,129550
+176,QHPWAE,"Problem Solving, Data Analysis, Data Analysis, Python",3,0,146925
+177,SXVCIK,"Machine Learning, Python",8,1,112623
+178,FGGEBV,Communication,2,1,93130
+179,EFFGDY,"Communication, SQL, Machine Learning, Java",7,2,83496
+180,RPUSJX,"Machine Learning, Python, SQL",10,0,123226
+181,ERYCTD,"Data Analysis, Problem Solving, Python",13,2,132104
+182,NLNERG,"Python, C++, Python, Python",12,2,88452
+183,PCVUKZ,Python,3,2,118407
+184,RFZUVX,Machine Learning,11,0,48815
+185,EEPCLC,"Java, Data Analysis, Python, C++",0,2,34939
+186,BOTQLB,C++,4,0,64741
+187,ZBNGZY,"SQL, Machine Learning, Python",6,2,47067
+188,NGTQXD,"Problem Solving, SQL, SQL",16,2,78454
+189,OCFZHP,SQL,10,1,76301
+190,ODUHWH,"Python, Communication, SQL, Problem Solving",20,1,99706
+191,TGZTXR,"C++, Problem Solving, SQL",7,2,83336
+192,LDNXYY,Python,1,1,64815
+193,EVTWZG,"Java, Machine Learning",17,2,88554
+194,LOSZMD,"Java, C++, Java, Python",9,1,60933
+195,FHOLJL,"C++, Python, SQL, Machine Learning",2,2,135161
+196,QHBSVA,Python,1,1,51414
+197,VYJISL,"SQL, Machine Learning",6,0,64122
+198,VTRXPD,"Communication, Data Analysis, Machine Learning",16,2,123385
+199,KYVVOP,"SQL, Communication, Problem Solving, Java",12,2,137813
+200,BMLZHL,"C++, Java",0,0,145275
+201,NCBQBQ,"Java, Java, SQL",20,0,123715
+202,BBMGII,Communication,0,0,65300
+203,NKTSAX,"Problem Solving, Java, Data Analysis, SQL",16,0,143455
+204,EWAFPT,Communication,2,0,55397
+205,PTZMNK,"SQL, Machine Learning, Python, Python",2,1,75628
+206,UJQGVD,"Communication, Problem Solving, SQL, Python",2,1,102946
+207,QABSAL,"Communication, Communication, Java",5,1,107230
+208,SSZWPP,"C++, Communication, SQL, Python",16,1,46890
+209,HYZYMN,"Java, Machine Learning",6,1,140749
+210,SOOUHX,"Communication, Java",13,0,128332
+211,MLVMPX,Machine Learning,17,2,48343
+212,LNOSEB,"Machine Learning, Python, Python",5,1,147446
+213,RRXZQJ,Problem Solving,18,2,96946
+214,QCPRUG,"Machine Learning, C++",19,0,109369
+215,AGMWPK,"Java, Data Analysis",2,2,146963
+216,CIGWVC,Communication,17,0,135480
+217,VAKMDJ,"Problem Solving, Data Analysis",0,2,112440
+218,ZHQKER,Machine Learning,1,2,90675
+219,DFXGLC,Communication,11,0,73216
+220,HTUJXA,"SQL, Java, Python",19,0,73464
+221,QRITVP,Java,18,1,43513
+222,QRKRDH,"SQL, Python, Machine Learning",10,0,59723
+223,JDHQCE,"Java, Data Analysis, Python, Java",1,1,136775
+224,EGARXW,"C++, Python",8,1,69677
+225,VFXTOW,"SQL, Java",9,0,30244
+226,IYCRPQ,"Problem Solving, C++, Problem Solving, Communication",12,2,88651
+227,IXMHMA,"Java, C++",13,1,105834
+228,ULLIAU,"C++, Data Analysis",1,1,37962
+229,NNFPHS,Java,14,1,101835
+230,EOMZXF,Java,12,0,75120
+231,QEJEQS,"Python, SQL, Java, Problem Solving",0,0,46193
+232,FVODQA,SQL,1,2,87238
+233,RZJSBQ,"Java, Communication, C++",11,1,66639
+234,RMGTED,"Communication, Machine Learning",7,2,112578
+235,GESTGM,"Machine Learning, SQL",8,0,127860
+236,DOTYRD,Java,12,1,93920
+237,DBVTWE,"Communication, Machine Learning, Java, Java",2,0,57212
+238,YVHKKR,Problem Solving,16,1,39980
+239,YSQAEC,Machine Learning,1,0,61666
+240,NBCCTU,Python,20,0,132016
+241,MHVNRT,"Machine Learning, SQL, Data Analysis",19,2,96988
+242,MRABEK,"C++, Java, Problem Solving, Data Analysis",19,2,120067
+243,KACBNT,Communication,14,0,136101
+244,PREHVG,"Communication, Python, Python",5,1,65707
+245,JPSVKS,"C++, Java, Python",15,2,49450
+246,CRDYTQ,Communication,16,1,64870
+247,XMDNYC,Python,0,0,109263
+248,UDRMGK,C++,15,2,108596
+249,KFKIPE,C++,14,0,61847
+250,TWFDHY,"C++, Data Analysis",18,1,42393
+251,YPPKTN,"Python, Python, SQL, Python",3,2,43017
+252,HYFHSH,Java,11,2,106333
+253,YAMHUI,"Problem Solving, Communication, Data Analysis",6,1,59020
+254,PUEKQU,"Java, SQL, Data Analysis",9,0,80965
+255,IQOAUX,Problem Solving,1,1,102358
+256,PMTXXC,Communication,15,0,83687
+257,NCRXNQ,"Java, Python",3,0,61006
+258,XFZHBR,"Data Analysis, C++, Machine Learning, Python",20,1,75796
+259,CUBEVI,"Problem Solving, Java, Data Analysis, Machine Learning",12,0,36880
+260,SBWDQD,"C++, C++",12,2,84699
+261,ZFBDHB,"C++, Machine Learning, Data Analysis",15,2,53524
+262,BHZENM,"Data Analysis, Communication, Communication",9,2,87487
+263,SALTCN,"Problem Solving, C++, Machine Learning, Python",10,2,140108
+264,EQQKZL,"Python, C++, Problem Solving",15,2,68135
+265,DITOAU,"Machine Learning, Python, Problem Solving, Python",20,2,80825
+266,UACLFV,"Machine Learning, C++, Java",5,2,40150
+267,YCHMLT,"Machine Learning, Python, Python",6,2,131869
+268,WBQSSO,Python,7,0,72573
+269,VPPFBK,Problem Solving,19,2,42058
+270,CIXTPH,"Data Analysis, C++",6,2,145837
+271,MDBQRQ,Python,12,0,70387
+272,YYFTKT,Java,9,0,77467
+273,RNAWBG,"Problem Solving, Problem Solving, Data Analysis",20,0,85079
+274,JFMKXQ,"Problem Solving, Communication",6,0,65427
+275,REZONV,"Java, Problem Solving, Python",4,0,90440
+276,RGKFEE,Machine Learning,9,0,70419
+277,UXSSWV,"Python, Java, Communication, Problem Solving",20,1,100937
+278,KLOTQY,Communication,16,1,69268
+279,YBIHFP,Communication,0,0,64633
+280,XJUAXO,"Java, Machine Learning",12,0,83528
+281,CTZVEA,"C++, Java, Problem Solving",15,2,34568
+282,UFYREY,"C++, Java",19,2,85569
+283,ARRIJE,"Java, Problem Solving, Machine Learning, SQL",6,0,108626
+284,JMQDAO,Java,4,2,112751
+285,XAYLBS,"Data Analysis, C++",17,2,48234
+286,OMIFYC,Data Analysis,18,0,57157
+287,RPDVQS,"Problem Solving, Data Analysis",19,2,144261
+288,FYWSHX,Python,16,1,115240
+289,RYENZT,"Data Analysis, Problem Solving, Python, C++",13,1,112199
+290,PTOSZA,"Java, Data Analysis",20,2,137629
+291,EGUMDS,"Communication, Python, Python",15,1,36885
+292,NTRBSM,"Python, Python, C++, Problem Solving",2,0,95957
+293,PHCHNQ,"Problem Solving, Python, Machine Learning",11,0,122254
+294,BYQNFS,"Problem Solving, Communication, Problem Solving, Data Analysis",4,0,82870
+295,YQMEQT,Communication,7,0,48910
+296,OIORKO,"Data Analysis, C++, Python",17,1,92182
+297,GNEWPO,Data Analysis,19,0,132397
+298,KZLWOL,"Communication, Data Analysis, Java, Python",0,2,123089
+299,UXCZYA,"Python, C++",4,0,65656
+300,YOGSWO,SQL,7,1,46119
+301,ZNMFTX,"SQL, Machine Learning",14,2,132859
+302,YTIIZZ,"Java, C++, Machine Learning",15,2,99279
+303,PUKKUR,"Data Analysis, Communication",2,2,108186
+304,AHGCBQ,"Problem Solving, Data Analysis",6,1,73253
+305,WNRWHB,"Data Analysis, Problem Solving, Python",13,2,90445
+306,VCASGG,"Communication, Java",3,0,62218
+307,DVEXTS,"Java, SQL",8,0,70613
+308,GZOPRV,"SQL, Python, Java",13,1,34361
+309,BJTRLA,"Python, Communication",15,1,111887
+310,XDZWEU,Java,15,0,147429
+311,TPFUEJ,"Communication, Java",18,0,123777
+312,QQZFAW,"Java, Machine Learning",12,2,68873
+313,DIJKGM,"Problem Solving, Problem Solving, Communication, Data Analysis",19,0,55618
+314,LCRHHG,Communication,0,0,142098
+315,XFJYMI,"Data Analysis, SQL",10,0,48248
+316,BONPEW,"Java, SQL",10,2,113584
+317,UCHNIF,"Machine Learning, SQL",14,2,83409
+318,HPPJZW,"Python, C++, Java",0,1,145805
+319,ZZTJLD,Data Analysis,4,2,139410
+320,HSIBDS,"C++, SQL, Problem Solving",3,0,63790
+321,ROXKKY,"Communication, Machine Learning",8,1,129281
+322,LNOXFX,"Communication, SQL, Python, Communication",9,0,67195
+323,KHRFGL,"SQL, Machine Learning, SQL",0,0,92415
+324,VYLYRV,Machine Learning,3,0,75541
+325,SZFRIR,"Machine Learning, Python",17,0,105255
+326,KHLYVO,"Machine Learning, SQL, Java",5,1,117377
+327,ABZVBE,"Problem Solving, Machine Learning",1,1,34933
+328,ZMISMY,Python,11,2,121403
+329,TDKHUO,"C++, Python, Java",13,2,134194
+330,IODDRX,"Machine Learning, Java",5,0,128169
+331,VVMNHP,"Java, Problem Solving, Data Analysis",15,1,56522
+332,OHTKNS,"SQL, C++",13,1,91352
+333,BLSOZF,"Data Analysis, Python, C++, Communication",2,0,105801
+334,YYISCL,"Machine Learning, Data Analysis, Python, Machine Learning",11,0,86907
+335,MLIERM,"Communication, Python, Machine Learning",11,2,148119
+336,RKQKLC,SQL,13,0,109993
+337,KMRHQK,C++,11,1,37894
+338,CZPLOT,"Problem Solving, SQL, Communication, Communication",2,2,142980
+339,UJDQAN,"Machine Learning, Python",9,2,66921
+340,GEDTRQ,"Data Analysis, Java, Machine Learning, SQL",7,1,68454
+341,HYLWCI,"Problem Solving, Data Analysis",15,2,57649
+342,IZGUBY,"C++, Machine Learning, C++, Communication",0,2,65381
+343,VETLFH,"C++, Communication",15,1,117827
+344,WKWJTT,SQL,10,2,93054
+345,SXTZZF,"Communication, SQL",6,2,91181
+346,ZNPYTM,"C++, Problem Solving, Python",17,1,101723
+347,YVLZAO,"Machine Learning, Python",12,0,105859
+348,HABWPN,"Communication, C++, Java",16,1,102905
+349,WLPEKV,"Problem Solving, Machine Learning",7,2,78049
+350,HKLWAR,"Data Analysis, Problem Solving, Python, Java",14,2,38100
+351,MLWPWU,"Problem Solving, Communication",4,1,58706
+352,CCKEET,"C++, Problem Solving",0,1,59062
+353,MRQPGG,"C++, Python, C++",3,1,100395
+354,QJNYJV,"SQL, C++, Machine Learning, Communication",5,1,128170
+355,CJOYEU,"Java, C++",14,1,88389
+356,AKNLCF,"Machine Learning, Python, C++, Python",2,2,123093
+357,HXRDPC,"Java, Java, Machine Learning",16,1,50434
+358,QTSSKS,Machine Learning,19,0,114816
+359,DVRHKO,"Data Analysis, Java",12,1,31222
+360,FLTKKJ,"Problem Solving, SQL, Python, Python",5,0,42751
+361,DLAGTW,"Problem Solving, Data Analysis",8,2,47519
+362,ZVBMJT,Machine Learning,7,1,34713
+363,LDJXIU,"Java, SQL, Problem Solving, Problem Solving",18,1,37245
+364,XIJNPP,"Problem Solving, Data Analysis, Machine Learning, Machine Learning",12,0,90345
+365,EBFKAT,Problem Solving,3,1,112689
+366,GDQDGJ,"SQL, Java, Communication, Python",0,0,114398
+367,FLRXLD,"Problem Solving, Python, SQL",17,0,49765
+368,UXOOQD,"Machine Learning, Data Analysis",18,1,67406
+369,VGLGXU,"Data Analysis, SQL, Python, SQL",16,1,90705
+370,XCABWV,"Machine Learning, Data Analysis, Python",9,0,73847
+371,ZENIHY,"Problem Solving, Machine Learning",2,1,76259
+372,WRUIFB,Communication,3,0,126563
+373,WSKLHK,"Problem Solving, Data Analysis",10,2,48734
+374,VHZMWW,"Java, Problem Solving",9,0,149412
+375,TZNZKD,"Machine Learning, C++, Python",2,2,76933
+376,UURTZF,Communication,8,0,123742
+377,BMZHFU,"C++, Java",12,2,121075
+378,CQNIHB,"Java, Data Analysis, Machine Learning",16,0,70168
+379,BBJXEY,"SQL, Machine Learning",18,2,116681
+380,GBSYUX,"SQL, Python, Python, SQL",4,0,102698
+381,ZKPYYD,"C++, C++",20,2,67617
+382,SVGUVX,C++,10,1,48408
+383,ZAODVF,Python,13,2,106585
+384,HYQLLM,Python,13,2,124550
+385,CWFROF,"Python, SQL, Communication",14,2,37873
+386,ORJOMC,"Java, Data Analysis",0,0,60307
+387,DAMMMT,C++,11,1,57200
+388,ARCSTE,Communication,15,1,126291
+389,VYFRGP,"Machine Learning, Data Analysis, C++, Communication",16,0,93052
+390,BPJWNR,"Problem Solving, Communication",8,2,68166
+391,MVWNSP,SQL,17,0,116845
+392,CLJSIW,"Problem Solving, SQL, Python, Data Analysis",12,2,32493
+393,TPEKRG,"Python, Python, SQL",8,1,137412
+394,WMIIIM,Machine Learning,16,1,134424
+395,FSCFZF,"Python, Machine Learning, Problem Solving, Python",2,0,81303
+396,EKRLRI,Data Analysis,5,0,59230
+397,YDQLZS,Data Analysis,3,0,54112
+398,PZDWEH,"Java, Problem Solving",13,0,103820
+399,VVDYLX,Data Analysis,8,2,131453
+400,PNPBLX,"SQL, Java, Data Analysis, SQL",10,0,32949
+401,FEAFLN,Python,15,2,41282
+402,HILBOG,"Data Analysis, Communication",6,0,44605
+403,LKWZAS,"Python, Java, Java",4,2,79478
+404,IGWLDU,Data Analysis,20,2,143758
+405,EERUPT,"Java, SQL, Problem Solving",15,0,80501
+406,IJSRHY,Communication,7,0,108828
+407,TDJPQX,"Python, Communication, Data Analysis, Python",20,1,105094
+408,HVDHIF,"Python, Machine Learning, SQL",19,0,77009
+409,FBXOGR,"Machine Learning, SQL",9,0,111732
+410,IBCQCL,"Communication, Machine Learning",20,2,92222
+411,KUEOYU,"SQL, Machine Learning, Python, Python",14,2,35310
+412,HFOSOP,"C++, C++, Python, Machine Learning",2,0,70622
+413,TAXZGJ,"Data Analysis, Java, Python, Machine Learning",4,2,86997
+414,YBLXGI,"Java, Machine Learning",13,1,59132
+415,EMDFMS,"Communication, Python, C++",17,2,87387
+416,ABUNQL,"Problem Solving, Problem Solving, C++",18,2,110424
+417,VONIDJ,"C++, Machine Learning, Communication, SQL",4,1,39627
+418,RFLNJN,"Data Analysis, Problem Solving, Python",18,1,64091
+419,NQYRWZ,"Java, Machine Learning",19,1,97459
+420,NHRELP,"Python, Java",13,0,120129
+421,ZIGHVX,"SQL, Python, C++",0,2,41039
+422,YLFRUX,SQL,7,1,79423
+423,YXXZJA,"Problem Solving, Communication",17,0,135937
+424,GTHSGD,"Problem Solving, Python, Problem Solving",2,1,65083
+425,FYJFQG,"Data Analysis, Problem Solving",14,1,85081
+426,ZLRUHV,"Java, C++, Python, C++",20,1,73521
+427,SKGEHP,"Machine Learning, C++, Problem Solving",0,1,40513
+428,NDGLHL,"Data Analysis, Problem Solving, Problem Solving",11,0,130145
+429,QWESLT,"Problem Solving, SQL",14,0,70304
+430,CQJFIR,C++,14,1,111688
+431,QMZFZS,"Java, Machine Learning, SQL, Machine Learning",13,1,125923
+432,MBKDQG,"Data Analysis, Machine Learning, Machine Learning, Machine Learning",12,1,146305
+433,AHZDYU,"Problem Solving, Problem Solving, Machine Learning",4,2,125317
+434,EMVRWI,"C++, C++, SQL, Problem Solving",8,1,138858
+435,PGKBEE,"Java, Communication, Problem Solving, Problem Solving",13,1,84528
+436,NNJIGM,"SQL, Machine Learning, Data Analysis",17,2,134018
+437,CDIQFI,"Communication, Machine Learning, C++",17,2,97537
+438,XVWFXE,"Problem Solving, Problem Solving",8,1,120652
+439,LCGGYM,"Python, Java, Data Analysis",9,2,144703
+440,RQFAKR,Communication,19,2,36628
+441,MEKBJQ,"Data Analysis, Problem Solving",8,2,93788
+442,NTJMMT,"Data Analysis, Data Analysis, Python",13,0,145039
+443,LQYSFO,"C++, Python",10,2,148465
+444,ESESPA,"Data Analysis, Data Analysis, Problem Solving, Machine Learning",20,0,32318
+445,RFLMFI,"Problem Solving, SQL",15,0,110928
+446,OQQKFX,"SQL, Machine Learning, C++, Python",8,0,97632
+447,PDGQSQ,Python,7,0,119474
+448,KPVBXK,"C++, Communication, Communication, Problem Solving",6,0,112836
+449,MTCTST,"Problem Solving, Java, Java",4,2,31672
+450,HHBMUM,Data Analysis,1,2,126145
+451,WHMQQG,"Machine Learning, SQL",10,2,120166
+452,ENUMVB,"C++, Python, Machine Learning",2,2,73091
+453,SGYCOZ,"Machine Learning, Machine Learning",2,2,99234
+454,NZFNVL,"C++, Problem Solving, Data Analysis",15,2,75730
+455,YFZRZM,Communication,4,0,51079
+456,UGPJKI,"C++, SQL, Data Analysis",4,2,129414
+457,QFGQGQ,SQL,2,2,136585
+458,GXBPBV,"C++, Java",2,1,48793
+459,OAWEUU,"Python, Problem Solving, Machine Learning",18,0,87151
+460,HCROEJ,"Machine Learning, Problem Solving, Problem Solving, C++",12,1,117757
+461,IUUXQH,"Communication, Machine Learning",5,1,34015
+462,LKNYPZ,"SQL, Communication, Machine Learning",19,0,80446
+463,JFCGJN,"SQL, Python, Data Analysis",16,0,149480
+464,FGVDLK,"Communication, Java, Data Analysis, Communication",3,0,132056
+465,LOTLQD,C++,9,0,146406
+466,URQKZJ,"Python, Machine Learning, Java",6,1,131968
+467,DZTPEG,Communication,11,1,61769
+468,VHRVXM,"Problem Solving, Data Analysis",15,0,108265
+469,GLLWOL,"Java, Data Analysis",0,1,98824
+470,GNNRIE,Python,18,2,71297
+471,SQCILP,"SQL, C++, Data Analysis, Communication",5,0,135535
+472,TXPNOO,SQL,6,2,129442
+473,SONBEU,SQL,14,2,61909
+474,KUSEIX,"Communication, C++",11,2,130062
+475,JONMOI,"Data Analysis, Problem Solving",5,2,85233
+476,NJOMFN,Problem Solving,10,2,127033
+477,LMJRYI,"Machine Learning, Java",7,0,116637
+478,PWAMQS,"C++, C++",17,2,70763
+479,TMSRLP,"Problem Solving, SQL",16,0,30750
+480,ZVWRMI,"Java, Communication, Java",18,1,147121
+481,HLHDUJ,"Problem Solving, Problem Solving, Python",18,1,126536
+482,WJWULR,"C++, C++",11,2,60117
+483,SQAHWS,"Problem Solving, Machine Learning, Python, Python",6,1,105640
+484,LZMNII,"Java, Java, C++, Problem Solving",14,0,117576
+485,SRKMCL,"Machine Learning, Communication, Java",15,0,88428
+486,XGOOWS,Problem Solving,5,2,134401
+487,LBOFGZ,"C++, Data Analysis, Communication, Java",1,1,35351
+488,PMJDJU,"C++, Data Analysis, Problem Solving, Data Analysis",13,2,78869
+489,CBGOQS,"Problem Solving, Java, SQL",20,1,123638
+490,NWODXF,"C++, C++",2,2,65051
+491,NKSWGK,"SQL, Java, Machine Learning",2,1,75544
+492,LBJQPR,"Data Analysis, SQL, Problem Solving, Problem Solving",11,0,111879
+493,TTBTED,"Python, Data Analysis, C++, Python",2,2,139093
+494,JJNVGY,Machine Learning,1,2,139084
+495,KZLFFI,Communication,19,1,120242
+496,UPOVAD,"Java, Data Analysis",9,2,75780
+497,BOGYWD,"C++, Communication, C++, Communication",3,1,30440
+498,EFISJD,Communication,1,2,93951
+499,CJNRRK,"Java, Machine Learning, Python",19,2,89165
+500,INKGKD,"Java, C++, Data Analysis",12,2,44031
+501,PSCEKH,"Problem Solving, Communication",7,1,65848
+502,SMUUZL,"SQL, Python",5,0,105753
+503,MRFTHE,"Java, Machine Learning, SQL, Machine Learning",20,1,81039
+504,KSALJS,"Python, Python",6,0,136184
+505,NSMJWI,"Java, C++, Data Analysis, Problem Solving",4,2,34795
+506,ZBRRPQ,"Data Analysis, SQL, C++",19,1,136718
+507,RHQWFJ,"Data Analysis, Java, C++, C++",5,1,96223
+508,OMYVWY,"SQL, Python",15,1,143791
+509,ONBEFM,Problem Solving,7,0,81942
+510,JMAFWJ,"C++, Java",15,0,30592
+511,BRTBKG,"Java, Machine Learning, Machine Learning, Machine Learning",2,2,57013
+512,QHGLUJ,"C++, Python",13,2,52700
+513,STKGGC,"SQL, C++",15,1,54150
+514,RKHIIE,"Communication, Communication, Data Analysis",11,0,76581
+515,CZYQLD,"Python, SQL, SQL",19,1,32596
+516,AFXHMU,"Data Analysis, Machine Learning, Python",16,2,95326
+517,LMYSPZ,"C++, Communication",11,1,140582
+518,VMMPRH,Java,2,1,85053
+519,PXBFAX,"C++, C++, Data Analysis, Python",17,0,96673
+520,NIUVSQ,"Data Analysis, Problem Solving, Java",1,0,42431
+521,NIGFDI,C++,19,0,52896
+522,MZNQXS,Communication,7,0,89848
+523,KIXWQV,Communication,11,1,115023
+524,SKPGYE,Data Analysis,0,2,64777
+525,PADUPP,"Java, Java, Problem Solving",18,1,127325
+526,BYSIJI,C++,16,2,124229
+527,HPJTWD,"C++, Data Analysis",5,0,66432
+528,XOXCXL,"Java, Communication",20,0,145874
+529,YUDOAC,Problem Solving,10,0,55225
+530,KFESXK,Python,6,2,82573
+531,DHDBUF,Data Analysis,16,1,146510
+532,DOCROK,Machine Learning,7,1,119354
+533,TEEGJJ,"Python, Java",20,0,126230
+534,DHMENM,Data Analysis,8,0,69843
+535,AKOAAA,"SQL, Machine Learning, Java",10,1,67240
+536,ULFFZS,C++,20,2,113896
+537,KQXRLJ,"Data Analysis, Java, SQL, Communication",3,2,97118
+538,JMAHWN,"Python, C++",3,2,147854
+539,XZQLZU,C++,1,2,94667
+540,PMYFCM,"Problem Solving, Python, Machine Learning, Problem Solving",6,1,48869
+541,LPVERM,Data Analysis,2,0,68468
+542,MQCFUC,"Communication, Machine Learning, Data Analysis, Python",4,2,125441
+543,XTVPGE,"Java, Python, Communication",9,0,52201
+544,JYPAKQ,"Data Analysis, Machine Learning, C++, Problem Solving",14,0,91741
+545,CWROFZ,"Problem Solving, C++, Data Analysis",2,0,90276
+546,FCDLTN,"Data Analysis, Problem Solving, Java, C++",5,2,76346
+547,DYFZVB,"Communication, Machine Learning, Python",8,1,137180
+548,IHHBJP,"C++, Java, Problem Solving",16,1,136986
+549,NAZEWA,"Data Analysis, Communication, Communication, Data Analysis",20,2,107905
+550,LTDEPR,"Data Analysis, SQL, SQL",13,0,139351
+551,KQUGYC,"C++, Problem Solving",2,0,72744
+552,RSBABG,"Python, Data Analysis",12,1,144877
+553,EEPVZT,"Machine Learning, C++, Machine Learning, C++",5,2,93926
+554,GKQCOO,"C++, Python",0,0,37527
+555,OAHXBE,"Machine Learning, Python, C++, SQL",9,0,95434
+556,ZIPADP,Problem Solving,4,1,138661
+557,UKWBDD,"C++, SQL",3,2,113641
+558,CUEKOU,"Python, Java, Python, C++",10,0,123017
+559,JFYTWF,"Communication, C++",2,2,70882
+560,DTXQZH,"Communication, Communication, C++",18,1,107926
+561,KMEQMP,"Communication, Python",10,1,103947
+562,KLVOKT,"SQL, C++",16,2,146474
+563,LGHATC,Data Analysis,16,2,141639
+564,AXAHSA,Java,18,1,149329
+565,CGMAID,"Python, Communication, Problem Solving",5,1,41038
+566,NDGGGU,"Data Analysis, Problem Solving, SQL, C++",1,1,71380
+567,CVPUOS,"Data Analysis, SQL, Communication, Problem Solving",9,1,145675
+568,QZLBKF,Data Analysis,14,1,35497
+569,PZNVYE,Machine Learning,20,0,69248
+570,ZANMGR,"C++, Java, Communication",11,0,56835
+571,RDATRD,Communication,16,0,70430
+572,NLREXP,"Java, Data Analysis, Python",3,2,100008
+573,KGUVGQ,"Python, Problem Solving, Python",5,1,129710
+574,EZDHAA,"Machine Learning, Java",10,2,99173
+575,IDGFHT,"SQL, Python",5,0,133577
+576,NSYRDI,"Communication, C++, C++",5,2,111919
+577,PLDMLV,"Data Analysis, Communication, SQL, C++",1,2,142008
+578,RSKLPG,"Data Analysis, Problem Solving, Machine Learning",16,1,37197
+579,DSVDVB,"Java, Communication, SQL, Java",19,1,112745
+580,ZKBVZK,"Python, Java",3,0,76415
+581,YJNTCS,Communication,17,1,40863
+582,UHIYVF,"Data Analysis, Java",4,2,97648
+583,OTXGAI,"C++, Python",8,0,62435
+584,VPFDOI,"Problem Solving, Java, Machine Learning",11,2,136940
+585,JZXEHB,C++,13,1,51749
+586,TNFIJV,"C++, Communication",13,1,143719
+587,YHDPFJ,Data Analysis,14,2,145851
+588,WVLDSD,Java,16,1,76578
+589,OJRPWP,"C++, Problem Solving",20,0,32390
+590,JTHHFL,"Data Analysis, Java, SQL",3,1,86546
+591,MOOCBK,"Communication, Machine Learning",13,0,65289
+592,XFOATH,"Data Analysis, Data Analysis, Problem Solving, Machine Learning",11,2,31960
+593,PPBAIR,Problem Solving,5,0,47779
+594,XNXOWA,"Machine Learning, Java",11,0,37392
+595,FVWFND,"C++, SQL, Java, C++",10,0,69862
+596,NDIDJL,"Java, Machine Learning, Problem Solving, C++",15,0,99341
+597,DLLTWK,SQL,16,1,67060
+598,KEMCFP,"Data Analysis, Data Analysis, Data Analysis, C++",13,1,105189
+599,MRPYJY,"Machine Learning, Data Analysis, Python",0,0,134615
+600,VIDOQG,"Communication, Communication, Problem Solving",7,0,107880
+601,TBPLHI,"C++, Python, C++",11,2,129438
+602,DXLWHJ,"Machine Learning, SQL, Communication, Java",7,1,71289
+603,WZNGHI,"SQL, Python, Python",8,1,148083
+604,FGDHSL,"Communication, Python",2,1,135674
+605,XYSTRY,Machine Learning,14,2,50351
+606,LBQOKK,"SQL, Machine Learning, Machine Learning, Machine Learning",10,1,116166
+607,QPVBKV,Java,17,2,58956
+608,ATYPQI,"Python, Machine Learning, Communication, SQL",6,0,60040
+609,JUWLZA,"Data Analysis, SQL",0,0,43309
+610,RHCGDN,Java,15,2,69766
+611,UULLFQ,Machine Learning,0,0,81716
+612,QNIGMW,Java,12,1,67716
+613,KEIJPA,Machine Learning,11,0,40836
+614,HFGTPZ,"Java, Data Analysis, SQL, Java",10,0,106478
+615,MAUSRH,"C++, Problem Solving",13,1,129421
+616,BMQSHI,"Java, Problem Solving",0,0,62748
+617,IQOWOV,"C++, Communication, SQL",13,2,33059
+618,UHEQGK,"Communication, Machine Learning, C++, SQL",16,1,142751
+619,UGEQCP,"Problem Solving, Java, Data Analysis, Java",12,0,49892
+620,YPOPHP,Python,5,1,86462
+621,YOKWEU,"SQL, Java, Machine Learning",17,1,67316
+622,JIULVD,"Data Analysis, Machine Learning, Data Analysis",5,2,143751
+623,UMCCXN,"Data Analysis, C++, Python",1,2,116766
+624,ZVSPBE,Java,14,0,89907
+625,ERYZLM,"C++, Java",5,1,68329
+626,CVYSJE,Machine Learning,9,0,64738
+627,LJGRSP,Machine Learning,20,1,141575
+628,MGSQLA,"C++, Data Analysis",2,2,127926
+629,GZGCTM,"Java, SQL, Python, Python",0,0,30586
+630,SAJWRK,"Python, Data Analysis, Python, Communication",19,0,133284
+631,EESFOK,Problem Solving,8,1,109310
+632,STCDIS,"Python, Communication, Communication, Communication",11,2,146492
+633,EHKDPO,Communication,2,2,45506
+634,NDDGCF,C++,13,2,107247
+635,YXDDHS,C++,14,2,55688
+636,CQHKNQ,"Python, Python, Communication",18,2,42104
+637,ZFUIWU,"Python, C++, Data Analysis",16,1,86604
+638,LBGFIK,"SQL, Python",3,1,103338
+639,HESPCJ,"Communication, Problem Solving, Python",0,2,139974
+640,ARUZET,"Machine Learning, Problem Solving",7,0,100840
+641,AVYYNX,"Python, SQL, C++, Communication",3,2,138808
+642,SFBVCB,"Java, Problem Solving, Problem Solving, Communication",1,1,128514
+643,NCOKJW,"Machine Learning, Machine Learning, Java, Problem Solving",16,0,57384
+644,HMEGRV,C++,3,1,69565
+645,XFUNNI,"Communication, Data Analysis, C++",3,2,63279
+646,SJWBIH,Machine Learning,6,1,114210
+647,MJRRRZ,"C++, SQL, Java, Machine Learning",0,2,128203
+648,XZIZTK,"Python, Java, Data Analysis, Communication",17,2,131300
+649,NVBNBA,"Data Analysis, Data Analysis, Python, Python",6,1,48098
+650,LXGCOG,Communication,8,1,97343
+651,ERQMUP,Machine Learning,7,2,96441
+652,UHQQXZ,"SQL, Problem Solving, Machine Learning, Data Analysis",18,2,57885
+653,AGJPEG,Java,12,2,67983
+654,KXPGGW,"Java, C++",6,1,114363
+655,QHFSCN,"C++, Communication",1,2,66061
+656,UOAUXT,SQL,8,0,78969
+657,MMYWWM,"Java, SQL, Python, SQL",4,0,94136
+658,FCWGVQ,Problem Solving,5,1,83679
+659,CBWNOR,"Java, SQL, Java",18,2,136113
+660,UCLNRV,"Java, Problem Solving, SQL, Problem Solving",1,1,38473
+661,CNBFPS,"Problem Solving, Machine Learning, Data Analysis",19,0,102397
+662,GGSQEF,"SQL, Java, Machine Learning, Problem Solving",1,0,78950
+663,HDWVVZ,"SQL, Problem Solving, Communication",14,0,125808
+664,CPAFBD,"Problem Solving, Communication",12,1,102057
+665,AHRJDM,"Java, Python",3,1,114553
+666,WFWJWB,Problem Solving,8,1,89360
+667,LFKEHW,"SQL, SQL, Communication, Problem Solving",9,1,33250
+668,TSTGVX,Python,20,2,48747
+669,NLXGWV,"Java, Python",7,2,146787
+670,LIVDXC,"Communication, Java, Problem Solving, C++",11,0,65033
+671,HCZOFQ,"Java, Communication",12,0,112899
+672,SIRYSO,Communication,17,2,62062
+673,YGNYDM,"C++, Java, Problem Solving",3,0,134675
+674,GPEALG,Python,0,2,69161
+675,GTUYGQ,"C++, Communication",0,1,50964
+676,ADFPHQ,"Java, Java",14,2,126626
+677,ZZLIAB,"SQL, Communication",11,1,53843
+678,ZUOQCU,"Problem Solving, Data Analysis, Java, Python",19,0,133513
+679,ISSLXG,"Machine Learning, Communication",11,2,77528
+680,TKCGVU,"Java, Python, C++, Python",19,1,125278
+681,DDZHEE,"Java, Communication, Problem Solving",17,0,91118
+682,VJEBRK,"C++, Communication, Machine Learning",4,1,96589
+683,XZQANV,SQL,1,0,131689
+684,XQFCAJ,Problem Solving,13,2,39446
+685,HVQOTF,"Java, Machine Learning, Machine Learning",1,1,35175
+686,MPTSKC,"Machine Learning, Python, Machine Learning",8,0,138003
+687,QYLDJZ,"Problem Solving, C++",15,0,48141
+688,JWKUJT,"Machine Learning, Data Analysis",16,0,48580
+689,EOPBAP,Machine Learning,6,2,140646
+690,PNJRKK,"C++, Python, Python, Python",11,2,68610
+691,RHCHQM,C++,12,0,39083
+692,MKBIAL,"Python, C++, Python",3,2,58992
+693,LKTVPB,"Java, Machine Learning, SQL, Java",12,1,148017
+694,SLRUHJ,"Java, Problem Solving",3,0,118726
+695,YEULWV,Data Analysis,10,0,111129
+696,OBOAPB,"Problem Solving, Machine Learning, Python, Data Analysis",12,2,141279
+697,ATFFWJ,Problem Solving,2,1,126018
+698,PSJVHV,"Problem Solving, C++",11,2,139682
+699,JIBNVI,"Python, Python, Java, C++",8,0,65579
+700,ZNRUAS,"Python, Java",1,1,140600
+701,QZHOZT,Python,19,1,79327
+702,IHXNIB,"Communication, Machine Learning, Communication, Machine Learning",4,1,105285
+703,ZYJQLH,"Data Analysis, Python, Python",20,2,148702
+704,HGVYFL,Machine Learning,19,2,91906
+705,EAJRIQ,"Communication, Python",19,0,99629
+706,DXDHFD,"Communication, SQL, Communication, Python",3,1,136700
+707,IDBDLD,Machine Learning,20,2,143039
+708,OMAHSA,"Data Analysis, Machine Learning, Machine Learning",7,0,99341
+709,WWPXHB,"Data Analysis, Machine Learning",10,0,134186
+710,CNYVRX,"Communication, Python, Python",13,0,95231
+711,DBGYCX,"Problem Solving, Communication",3,0,83682
+712,IZGJYF,"Data Analysis, Machine Learning, Python, Data Analysis",18,1,62903
+713,QQZEOG,"Python, SQL",15,0,129479
+714,AOJEPS,"Machine Learning, SQL, Data Analysis",17,2,78479
+715,PCEHRL,Data Analysis,18,1,81694
+716,JPWUWK,"Communication, Python",3,1,61847
+717,YWZSXE,"SQL, Python",9,1,129470
+718,ARGELA,Machine Learning,10,1,91757
+719,QCKHGW,"C++, Data Analysis, C++, Communication",18,0,32969
+720,HXAJLM,"Machine Learning, SQL, C++",5,0,115842
+721,UREJPF,"Problem Solving, Python, SQL",15,1,31860
+722,JQGEER,"Machine Learning, Communication, Java",13,0,149279
+723,LHLNLK,"Data Analysis, Machine Learning",17,1,102415
+724,ABMPCK,"Python, Problem Solving, Machine Learning, SQL",11,1,90001
+725,KMKKIO,"Data Analysis, Data Analysis, Communication",2,0,123375
+726,HPNJIM,"Java, Python, Communication, C++",14,0,96886
+727,QQLAMC,"Data Analysis, Machine Learning, C++, Python",10,2,79441
+728,WYMTNH,"Java, SQL, Communication",3,0,80582
+729,TDVVUI,SQL,8,2,121900
+730,KJCOLI,"Machine Learning, Python, C++, Java",1,2,40092
+731,VXVUEP,Machine Learning,7,1,140359
+732,HYYVWG,"SQL, Communication, Python",18,0,106631
+733,TLGAFW,Data Analysis,12,2,52623
+734,JVULLD,"Python, C++, Problem Solving, Problem Solving",18,0,104727
+735,AVRFPB,C++,8,2,98079
+736,BILHZL,"Java, Problem Solving, Communication, Java",0,2,32062
+737,TFSWPT,Data Analysis,19,2,80601
+738,NIEYQY,Java,12,0,68281
+739,KUQVVC,SQL,9,1,94740
+740,UNYYLU,"Machine Learning, Python, Problem Solving",11,2,55624
+741,NPBYYI,"Problem Solving, Machine Learning, Communication, C++",10,2,47267
+742,DTMSMK,Problem Solving,12,0,149797
+743,JVOXNF,"C++, Python, Communication",10,0,42293
+744,NIHJOQ,"Data Analysis, Java, Python",6,1,138351
+745,SHDKVR,"Machine Learning, Communication, Java, C++",12,1,148346
+746,FBRCUD,"Problem Solving, Problem Solving, Communication, Machine Learning",7,2,144534
+747,BLZBCY,"Problem Solving, Data Analysis, Machine Learning, SQL",12,2,30412
+748,RHISJW,"Communication, Python, Python, Problem Solving",20,2,119695
+749,VPBJGM,SQL,9,0,70982
+750,PZSVWN,"Problem Solving, Communication, C++, C++",4,0,38809
+751,BOVIEO,"Problem Solving, C++, Machine Learning",3,2,133926
+752,WVNWOA,"Python, Communication, C++, Data Analysis",12,0,145966
+753,SFWSJB,"Java, Python, C++",7,2,111354
+754,UIITHS,"Machine Learning, Java, Problem Solving",13,2,78469
+755,ZRKLBB,"Problem Solving, Python, Problem Solving, Machine Learning",18,2,35790
+756,GTGFEC,Machine Learning,1,1,52482
+757,XIIQHI,"Machine Learning, Problem Solving",2,1,66921
+758,YXUWJG,SQL,12,2,37134
+759,YOTHYU,"Data Analysis, Data Analysis, Python",3,1,143183
+760,SDAUYA,"Problem Solving, Machine Learning",17,1,116494
+761,MESWCS,"Machine Learning, Problem Solving",6,0,59344
+762,SOHLKZ,"Python, Problem Solving, C++, Python",12,2,126809
+763,GJWACR,"Problem Solving, Machine Learning",1,1,69032
+764,KUGDIM,Python,8,0,34892
+765,HVZALC,"Problem Solving, Problem Solving, Data Analysis",15,2,90996
+766,BQLFOL,Communication,3,0,51994
+767,ZXKTEU,"Machine Learning, Data Analysis, Data Analysis",19,2,41519
+768,HBXXYZ,Data Analysis,4,2,97478
+769,FWRQQA,"Problem Solving, Communication, Machine Learning, Data Analysis",2,1,53792
+770,SDBGUA,"Data Analysis, C++",19,2,91677
+771,IYGLEV,Communication,8,1,35574
+772,FHXZTK,"SQL, Problem Solving",5,1,122009
+773,FFEKZM,"SQL, SQL, Communication, Python",19,0,139145
+774,QZFNLW,"Java, C++, Python, Data Analysis",12,0,76444
+775,KHAYQX,"Data Analysis, SQL, Java",4,2,86787
+776,YYZUOA,"SQL, Communication, Problem Solving, Problem Solving",10,0,63790
+777,ODWPID,C++,6,2,92345
+778,EUOERT,"Python, Java, Python, Python",18,0,67858
+779,YYDSBM,"Problem Solving, C++, Problem Solving",8,2,94598
+780,UHWMYP,Java,11,0,33753
+781,ABNBDH,"Java, C++",10,2,97899
+782,YEGCNG,"Problem Solving, Java, Data Analysis, C++",5,0,103144
+783,PZQQSJ,"Problem Solving, Java",8,2,85477
+784,ZAPVQK,Python,12,2,58828
+785,EHXRIG,"Python, SQL",9,0,116935
+786,NFRFEC,"Data Analysis, Java",9,2,52788
+787,WRBHNZ,"Python, Problem Solving, Problem Solving",11,0,47789
+788,FERPVH,"SQL, SQL, Communication, Problem Solving",7,0,85383
+789,ISUZHC,"SQL, SQL, Java, C++",1,0,134551
+790,ISRIHB,"C++, Problem Solving",9,1,91969
+791,DVPYRT,Communication,6,0,35182
+792,ZBKSHL,"Machine Learning, Python, Communication",8,1,86456
+793,FIFTCV,"SQL, SQL",5,2,62457
+794,EYBAYN,"Java, Communication",14,2,104484
+795,PYEAES,"SQL, SQL, SQL",16,1,79656
+796,XUEFOW,"Java, Machine Learning",8,1,31729
+797,PTMHAZ,"Machine Learning, Problem Solving",14,2,117932
+798,UUFKYL,"Machine Learning, Python, Java, Java",11,1,123663
+799,VGBUNP,"Java, Python",15,0,101055
+800,PLVDJW,"Data Analysis, Problem Solving",8,0,83713
+801,YXEXYR,"Data Analysis, Machine Learning",15,0,132725
+802,UFVOTI,"Python, Data Analysis, Java, Communication",19,1,141239
+803,DFDUGB,"Python, Communication, C++, C++",18,1,128413
+804,ZJMXWF,"Problem Solving, C++, Machine Learning",15,0,56306
+805,CZOTFY,"Machine Learning, Data Analysis",5,0,52683
+806,DPBZWK,"Data Analysis, Machine Learning",7,2,106642
+807,HIRZHT,C++,7,1,131574
+808,HJUBRY,"Python, C++",16,1,67528
+809,KMPCAY,"Communication, Problem Solving",19,0,56610
+810,VFTARX,"Python, Communication, Java, Machine Learning",14,1,59028
+811,OUEEMM,"Machine Learning, Java, Data Analysis",2,0,60061
+812,EPFWYN,Communication,11,0,85820
+813,UUHOXU,"Data Analysis, Java, SQL",15,0,70885
+814,FHEPJF,Python,20,1,92989
+815,ZBUABT,Communication,10,1,36493
+816,JCQXSZ,"C++, C++, Problem Solving, Python",10,1,77085
+817,KQRIRR,"Problem Solving, Problem Solving, Python, Data Analysis",9,1,92877
+818,FJGMGP,"C++, Data Analysis, Data Analysis, Data Analysis",17,1,79105
+819,YBOFJF,C++,17,0,32378
+820,GLZQTX,"Problem Solving, Data Analysis",16,0,102360
+821,SZQJKJ,"C++, Machine Learning, SQL, Data Analysis",11,1,147019
+822,JHXWKL,Data Analysis,4,1,50510
+823,HAWACW,"Problem Solving, Machine Learning",4,2,42898
+824,PIPYWT,"Problem Solving, Data Analysis",10,2,31176
+825,OCDBKE,Machine Learning,0,2,143090
+826,AYSGXM,C++,18,2,133226
+827,PXYQSN,"Problem Solving, Problem Solving",12,1,78521
+828,BWDGHZ,"Python, Problem Solving, Machine Learning",3,1,109845
+829,UQYCKT,"Machine Learning, Communication, Python",16,2,83510
+830,CYAGNG,"SQL, Python, Communication",2,0,116380
+831,ZPFNJX,"Communication, Python",11,1,119861
+832,TWYNVN,"Communication, C++, Machine Learning, Java",8,0,129243
+833,CYJBNU,"SQL, Problem Solving, Communication",5,2,101027
+834,AZOEHQ,SQL,10,1,52278
+835,JMREQQ,Java,9,1,106407
+836,ZQDIWC,"SQL, C++",18,1,33386
+837,AZGVWZ,"Java, Python, C++, C++",12,1,116561
+838,REECZL,"Communication, Java, C++",11,0,99898
+839,KCLMUJ,"Problem Solving, Problem Solving, Problem Solving",6,0,83646
+840,DTGKQI,"Python, SQL, Python",16,2,53794
+841,ZFPFSA,"Data Analysis, Python, Data Analysis",4,1,131976
+842,EAFSNT,"Communication, SQL, Problem Solving, Communication",6,0,138425
+843,CPZIJA,"SQL, Communication, Communication, Problem Solving",15,2,118342
+844,GAJRDF,"Machine Learning, SQL, Python",10,0,31666
+845,RSNLAV,Python,10,0,98306
+846,GMJRMS,"Machine Learning, SQL",7,1,143955
+847,GPWHAF,"C++, SQL, Java",1,2,89304
+848,EHNLEG,Python,0,1,65834
+849,GIGQCQ,"Python, Machine Learning",20,0,45178
+850,AYEARQ,Data Analysis,4,0,149456
+851,IVSYQV,"C++, Communication",12,2,95459
+852,KAIFGK,"Data Analysis, Python, C++",14,0,37830
+853,NZUUNC,"Data Analysis, Problem Solving",20,1,144837
+854,EQOYBH,"Data Analysis, Python, Java",1,0,66152
+855,LNEBMQ,"C++, Python, Java, C++",19,1,45433
+856,ZFBIBW,"Communication, C++, Communication",5,1,132258
+857,AACKQX,"SQL, Problem Solving, Communication",19,2,75008
+858,CHFNUA,"Machine Learning, Problem Solving, Machine Learning",7,2,118810
+859,HZYBDC,"Problem Solving, Data Analysis",14,2,137179
+860,CVXRFD,"Machine Learning, Data Analysis, Machine Learning, Data Analysis",9,1,30855
+861,ZVGTWX,"SQL, Communication, Problem Solving, C++",17,1,92325
+862,VMWKOM,Problem Solving,17,0,96011
+863,ZJFHVT,"Python, Data Analysis, Data Analysis",2,0,110694
+864,KTOUQB,Machine Learning,14,1,36906
+865,TOJMDD,"Data Analysis, Problem Solving, Java",2,1,108551
+866,IYTINN,"Java, Java",7,1,92573
+867,ZMUOQN,"SQL, Java",9,1,114665
+868,GLIGTO,Python,11,0,70270
+869,OILCYP,"C++, Communication, SQL, Communication",11,1,68062
+870,YYCFKG,Java,15,0,112720
+871,FYFOYC,"Communication, SQL, Communication",15,0,119320
+872,LQSMAC,Data Analysis,0,2,134329
+873,ZAYZQE,"Python, Data Analysis, Data Analysis",8,0,131856
+874,EDFSKU,"Problem Solving, SQL",9,0,79942
+875,QNPFJV,"Machine Learning, SQL, SQL",4,0,49511
+876,XNXBLC,Communication,5,1,64148
+877,YNHYBD,"C++, Data Analysis, SQL",10,0,83741
+878,SOIXBK,"Machine Learning, C++, Java",2,0,97189
+879,PPJNGA,"SQL, Python, Machine Learning, Problem Solving",15,2,141390
+880,YUGOGB,Communication,6,1,121645
+881,OTAOHR,SQL,17,1,105784
+882,HBFFGN,"Data Analysis, SQL",18,2,36625
+883,XMJNXY,C++,3,2,103326
+884,JEFYLW,"Communication, SQL, Python",18,0,141628
+885,YFIIUV,"Data Analysis, Communication, Data Analysis, SQL",5,2,136209
+886,COBNBH,"Python, Machine Learning, SQL",9,2,48648
+887,MJOMXQ,SQL,2,0,80856
+888,WDCBRL,"C++, Java, Communication",9,2,34132
+889,QXJXZQ,"Problem Solving, Problem Solving, Machine Learning",18,1,61523
+890,DJWPUY,"SQL, Python, Communication",19,2,136607
+891,BUVEMM,Communication,0,0,125366
+892,CWOTZS,Python,0,2,59977
+893,CDAQOW,Java,10,1,61982
+894,UDALQY,"C++, Data Analysis, Machine Learning",9,1,78562
+895,IJCOUK,"Data Analysis, Java, Machine Learning",3,2,118325
+896,EJNLIF,"Machine Learning, C++, Python",9,0,45527
+897,ICMWGQ,"Python, SQL",16,0,50905
+898,RVTDEK,"Python, SQL, Problem Solving",10,1,148332
+899,RSEYPR,"Python, Communication",5,1,41897
+900,NTQXIN,"Communication, Python, C++, Python",4,2,132591
+901,LCRGYC,"Problem Solving, Data Analysis, C++",17,2,90587
+902,LOIRHJ,"Data Analysis, Python, Data Analysis",16,0,31945
+903,LUZEKC,"Python, Machine Learning, Data Analysis, SQL",16,1,34529
+904,UHTUHA,"Communication, Problem Solving",0,0,114065
+905,EUYKXI,C++,20,0,33130
+906,MVGCLM,"SQL, Communication, Communication",4,2,137255
+907,PIIYNA,SQL,16,1,131965
+908,APRMQV,"Communication, Data Analysis",8,2,33955
+909,YLPTAO,Data Analysis,7,2,127460
+910,ESRZIZ,"Problem Solving, C++, Data Analysis, Machine Learning",17,0,37725
+911,EKBWBO,"SQL, C++, Machine Learning",12,0,39223
+912,SDQUFD,"Python, C++, Java",11,1,50687
+913,PNIHLI,"Communication, Problem Solving, Data Analysis",6,0,89795
+914,ZISFTX,SQL,4,0,60969
+915,GTFLPM,Python,11,2,39724
+916,VEDSRM,"Data Analysis, SQL",12,2,58979
+917,ZWMAAG,"SQL, Python, C++",20,1,102371
+918,DJITDK,"Java, Python, Java, Data Analysis",16,0,54226
+919,XZUMIG,"Communication, Data Analysis",20,0,97423
+920,WHSVPE,"Machine Learning, SQL, C++, Data Analysis",19,0,31690
+921,LLMAFZ,"Java, Java",20,2,109595
+922,GNWYFS,Python,11,2,130533
+923,MODXJT,"Machine Learning, Problem Solving, Machine Learning",9,2,108660
+924,FBBAUZ,"Communication, Python, Problem Solving",9,2,126057
+925,PKMNDT,C++,6,0,88201
+926,UKTJFN,Communication,1,1,65186
+927,IRNZDA,"Java, Python",13,1,107017
+928,WOUOXG,"C++, Data Analysis",19,0,144580
+929,PFWAHH,"Data Analysis, Problem Solving, SQL",2,0,44272
+930,RAPLLS,"Java, C++, C++",13,0,76519
+931,LGWHUD,"Data Analysis, Java",8,2,43322
+932,TFRALB,"Data Analysis, Python",16,2,62926
+933,SVOUZS,"SQL, Communication",8,1,98337
+934,JGELRA,"Problem Solving, Python, Python",18,0,149499
+935,LXYSIV,"Communication, Communication",15,2,131240
+936,TCSGYO,"Java, Python, C++, Problem Solving",6,1,131660
+937,LBUNNB,"Machine Learning, Java, Communication, C++",20,1,37052
+938,KTXNTO,"Communication, SQL, Problem Solving, Java",14,2,39589
+939,ALHDOA,Python,15,1,112738
+940,IDLXUB,Data Analysis,10,0,98360
+941,GOEKDP,"C++, Communication, Data Analysis, SQL",14,2,57205
+942,WGLUCX,"Machine Learning, Python",20,1,83797
+943,DRKAGB,"C++, Python, Java, Python",0,2,50977
+944,VOUWDR,"Data Analysis, Machine Learning, Problem Solving",20,1,139002
+945,HOXYLN,C++,8,0,131167
+946,AASWRZ,"Communication, Communication, Data Analysis",1,0,50800
+947,JFMRXD,"Data Analysis, Communication",12,1,55711
+948,ZDCUFU,Java,1,1,34499
+949,GIAMZG,"Communication, SQL, Python",7,0,124964
+950,HJGFEH,"Python, SQL",9,1,68835
+951,TPWDHY,"SQL, SQL, Python, Java",14,2,89418
+952,UISWWV,"Communication, Data Analysis",5,2,31677
+953,OHYCCQ,"C++, SQL",5,2,59592
+954,NYNBNZ,"SQL, Machine Learning, SQL",14,1,64410
+955,KXVNXV,Problem Solving,9,0,107586
+956,GSXHNU,"Python, Problem Solving",14,2,72057
+957,DKDFFW,"Data Analysis, Communication, C++, Java",4,1,109164
+958,BSAMNC,SQL,12,0,104779
+959,VSQDMI,"Python, Data Analysis, Machine Learning",17,2,44541
+960,DJMRLP,C++,14,1,132152
+961,ANWUGE,"C++, Machine Learning, Machine Learning, Problem Solving",14,2,66278
+962,BDJWOS,C++,17,2,46759
+963,YYOSJT,"Python, SQL, Java, Data Analysis",9,0,66578
+964,CKRBVW,"SQL, Machine Learning, SQL, Problem Solving",5,1,134003
+965,RXZOZW,Machine Learning,1,2,51510
+966,PSSLWY,"Communication, Java, Java",19,0,148990
+967,FLGJLP,"Data Analysis, Communication, Communication",0,0,72321
+968,MMNFSJ,"Data Analysis, SQL, C++, C++",15,2,89977
+969,IVIIAA,"Problem Solving, C++, Communication, Data Analysis",18,2,143425
+970,MUUZVS,Python,11,1,82948
+971,PXWMRX,"Communication, Python, Java, Python",7,2,147751
+972,JNCAJG,"SQL, Python",9,0,80025
+973,XDTGBB,Java,20,0,104183
+974,FBBDWF,"Java, Communication, Data Analysis, C++",13,1,73022
+975,SBDNCP,Python,1,2,85125
+976,LBJJLZ,"SQL, Problem Solving",18,2,70160
+977,QZJAVE,"C++, Data Analysis, Data Analysis, Machine Learning",19,2,122130
+978,LDYZMC,"Machine Learning, Machine Learning, Communication, Data Analysis",15,0,60001
+979,AEYKDL,"Machine Learning, Python, Problem Solving",1,2,122018
+980,JXFBDK,"Machine Learning, Data Analysis, C++, Problem Solving",16,0,122291
+981,QUBDNE,Java,0,2,67092
+982,IYZZFK,"Python, Communication, Machine Learning",11,2,106381
+983,ADVINA,"Python, Communication, Python, Problem Solving",1,0,77481
+984,KFVINC,"Python, Python, C++, Problem Solving",10,0,93254
+985,AXZMHQ,"Python, Java, Communication",13,2,31551
+986,PTRAYA,"C++, Problem Solving",10,2,68120
+987,LKGSBT,"SQL, Data Analysis, Machine Learning, Data Analysis",7,1,148625
+988,UFRWKM,"SQL, Data Analysis, Java, Python",7,1,120705
+989,JRDICK,"Machine Learning, C++, Data Analysis",0,2,128784
+990,GAEEMA,"Communication, C++, Python, SQL",4,1,36457
+991,TDWHWX,"Problem Solving, Java, Java",4,2,46613
+992,RWYLCV,"C++, Machine Learning, Communication",3,0,51700
+993,MQCMVZ,"Machine Learning, Machine Learning, Python, SQL",8,2,141992
+994,ZJDANF,SQL,13,1,137187
+995,SDKTMJ,"C++, Java, Communication",4,1,135328
+996,QGMPGR,"Machine Learning, Communication, Communication, Problem Solving",18,2,131855
+997,GFWMCA,"Machine Learning, Communication, Problem Solving",14,1,68936
+998,RYKAEI,"Python, C++, Python, Machine Learning",2,2,105389
+999,SNHIQW,"Communication, Data Analysis, Python",18,1,52796
+1000,KPUQVX,Data Analysis,20,0,41799
