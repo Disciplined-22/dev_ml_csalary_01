@@ -1,0 +1,30 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '3.x'
+    addToPath: true
+
+- script: |
+    python -m pip install --upgrade pip
+    pip install azureml-core azureml-sdk
+  displayName: 'Install Azure ML SDK'
+
+- checkout: self
+
+- script: |
+    python train.py
+  displayName: 'Train Model'
+
+- script: |
+    python evaluate.py
+  displayName: 'Evaluate Model'
+
+- script: |
+    python deploy.py
+  displayName: 'Deploy Model'
