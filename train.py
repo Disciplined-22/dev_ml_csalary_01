@@ -74,7 +74,7 @@ import pandas as pd
 # correlation = df['Candidate Score'].corr(df['Candidate Salary'])
 
 # Print the correlation coefficient
-print(f"Pearson's correlation coefficient: {correlation:.2f}")
+# print(f"Pearson's correlation coefficient: {correlation:.2f}")
 
 
 from sklearn.model_selection import train_test_split
