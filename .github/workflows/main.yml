@@ -15,20 +15,11 @@ jobs:
       with:
         python-version: '3.x'
         
-    - name: Download CSV from Azure Blob Storage
+    - name: Download CSV from GitHub
       run: |
-        az storage blob download \
-          --container-name gamer \
-          --name gamer \
-          --file candidate_information.csv \
-          --connection-string ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
-        if [ $? -eq 0 ]; then
-          echo "CSV file downloaded successfully."
-        else
-          echo "Failed to download CSV file."
-          exit 1
-        fi
-
+        # Download the CSV file from GitHub repository
+        wget https://github.com/Disciplined-22/dev_ml_csalary_01/main/candidate_information.csv -O candidate_information.csv
+        
     - name: Train Model
       run: python train.py
 
