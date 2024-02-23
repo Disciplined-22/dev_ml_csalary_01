@@ -19,7 +19,7 @@ steps:
 
 - task: AzureCLI@2
   inputs:
-    azureSubscription: 'azure'
+    azureSubscription: 'gamers'
     scriptType: 'bash'
     scriptLocation: 'inlineScript'
     inlineScript: |
