@@ -18,12 +18,11 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas   # Install pandas as an example
-        # Add more pip install commands for other dependencies if needed
+        pip install pandas scikit-learn joblib
+        pip install azureml-core scikit-learn pandas
         
     - name: Download CSV from GitHub
       run: |
-        # Download the CSV file from GitHub repository
         wget https://raw.githubusercontent.com/Disciplined-22/dev_ml_csalary_01/main/candidate_information.csv -O candidate_information.csv
         
     - name: Train Model
