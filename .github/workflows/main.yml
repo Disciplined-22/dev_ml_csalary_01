@@ -18,7 +18,7 @@ jobs:
     - name: Download CSV from GitHub
       run: |
         # Download the CSV file from GitHub repository
-        wget https://github.com/Disciplined-22/dev_ml_csalary_01/main/candidate_information.csv -O candidate_information.csv
+        wget https://raw.githubusercontent.com/Disciplined-22/dev_ml_csalary_01/main/candidate_information.csv -O candidate_information.csv
         
     - name: Train Model
       run: python train.py
