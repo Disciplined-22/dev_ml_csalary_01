@@ -73,7 +73,7 @@ import pandas as pd
 # Calculate Pearson's correlation coefficient between Candidate Score and Candidate Salary
 # correlation = df['Candidate Score'].corr(df['Candidate Salary'])
 
-Print the correlation coefficient
+# Print the correlation coefficient
 print(f"Pearson's correlation coefficient: {correlation:.2f}")
 
 
