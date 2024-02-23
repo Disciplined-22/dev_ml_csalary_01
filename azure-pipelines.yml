@@ -17,6 +17,28 @@ steps:
 
 - checkout: self
 
+- task: AzureCLI@2
+  inputs:
+    azureSubscription: 'azure'
+    scriptType: 'bash'
+    scriptLocation: 'inlineScript'
+    inlineScript: |
+      az storage blob download \
+        --container-name gamer \
+        --name gamer \
+        --file candidate_information.csv \
+        --connection-string $(az storage account show-connection-string \
+                               --name gamerwe \
+                               --query connectionString \
+                               --output tsv)
+      if [ $? -eq 0 ]; then
+            echo "CSV file downloaded successfully."
+          else
+            echo "Failed to download CSV file."
+            exit 1
+          fi
+  displayName: 'Download CSV from Azure Blob Storage'
+
 - script: |
     python train.py
   displayName: 'Train Model'
