@@ -68,12 +68,12 @@ import pandas as pd
 # Assuming Weight_Skills, Weight_Experience, and Weight_Education are defined
 
 # Calculate Candidate Score
-df['Candidate Score'] = (Weight_Skills * df['Candidate Skills']) + (Weight_Experience * df['Candidate Experience']) + (Weight_Education * df['Candidate Education'])
+# df['Candidate Score'] = (Weight_Skills * df['Candidate Skills']) + (Weight_Experience * df['Candidate Experience']) + (Weight_Education * df['Candidate Education'])
 
 # Calculate Pearson's correlation coefficient between Candidate Score and Candidate Salary
-correlation = df['Candidate Score'].corr(df['Candidate Salary'])
+# correlation = df['Candidate Score'].corr(df['Candidate Salary'])
 
-# Print the correlation coefficient
+Print the correlation coefficient
 print(f"Pearson's correlation coefficient: {correlation:.2f}")
 
 
