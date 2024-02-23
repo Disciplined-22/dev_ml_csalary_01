@@ -1,7 +1,7 @@
 from sklearn.metrics import mean_squared_error, r2_score
 import joblib
 import pandas as pd
-from train import predictions, X_train, X_test, y_train, y_test, train_model
+from train import predictions, y_test
 
 # Load the trained model
 # Calculate Mean Squared Error (MSE)
