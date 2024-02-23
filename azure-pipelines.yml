@@ -24,11 +24,11 @@ steps:
     scriptLocation: 'inlineScript'
     inlineScript: |
       az storage blob download \
-        --container-name gamer \
-        --name gamer \
+        --container-name gamer  \
+        --name gamer \   # assuming 'candidate_information.csv' is the name of your CSV file
         --file candidate_information.csv \
         --connection-string $(az storage account show-connection-string \
-                               --name gamerwe \
+                               --name gamer \
                                --query connectionString \
                                --output tsv)
       if [ $? -eq 0 ]; then
