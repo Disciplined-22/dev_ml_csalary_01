@@ -4,6 +4,8 @@ import numpy as np
 import pandas as pd
 from azureml.core.model import Model
 from sklearn.ensemble import RandomForestRegressor
+import pkg_resources
+
 
 def init():
     pass
