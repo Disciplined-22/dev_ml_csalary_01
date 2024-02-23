@@ -1,52 +1,47 @@
-trigger:
-- main
+name: CI/CD Pipeline
 
-pool:
-  vmImage: 'ubuntu-latest'
+on:
+  push:
+    branches:
+      - main
 
-steps:
-- task: UsePythonVersion@0
-  inputs:
-    versionSpec: '3.x'
-    addToPath: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+        
+    - name: Install Azure ML SDK
+      run: |
+        python -m pip install --upgrade pip
+        pip install azureml-core azureml-sdk
+        
+    - name: Download CSV from Azure Blob Storage
+      run: |
+        az storage blob download \
+          --container-name gamer \
+          --name gamer \
+          --file candidate_information.csv \
+          --connection-string ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
+        if [ $? -eq 0 ]; then
+          echo "CSV file downloaded successfully."
+        else
+          echo "Failed to download CSV file."
+          exit 1
+        fi
 
-- script: |
-    python -m pip install --upgrade pip
-    pip install azureml-core azureml-sdk
-  displayName: 'Install Azure ML SDK'
+    - name: Train Model
+      run: python train.py
 
-- checkout: self
+    - name: Evaluate Model
+      run: python evaluate.py
 
-- task: AzureCLI@2
-  inputs:
-    azureSubscription: 'gamers'
-    scriptType: 'bash'
-    scriptLocation: 'inlineScript'
-    inlineScript: |
-      az storage blob download \
-        --container-name gamer  \
-        --name gamer \   # assuming 'candidate_information.csv' is the name of your CSV file
-        --file candidate_information.csv \
-        --connection-string $(az storage account show-connection-string \
-                               --name gamer \
-                               --query connectionString \
-                               --output tsv)
-      if [ $? -eq 0 ]; then
-            echo "CSV file downloaded successfully."
-          else
-            echo "Failed to download CSV file."
-            exit 1
-          fi
-  displayName: 'Download CSV from Azure Blob Storage'
-
-- script: |
-    python train.py
-  displayName: 'Train Model'
-
-- script: |
-    python evaluate.py
-  displayName: 'Evaluate Model'
-
-- script: |
-    python deploy.py
-  displayName: 'Deploy Model'
+    - name: Deploy Model
+      run: python deploy.py
